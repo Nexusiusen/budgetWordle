@@ -1,0 +1,24 @@
+.letterBoxes
+{
+	width: 10%;
+	padding: 2.5%;
+	border-style:solid;
+	font-size: 50px;
+	float: left;
+	margin:1.25%
+
+}
+#guessBox
+{
+	width:10%;
+	padding: 10px;
+	border-style: solid;
+	border-width: 2px;
+	height:400px;
+}
+#guess
+{
+	width: 10%;
+	padding: 10px;
+
+}
